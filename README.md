@@ -1,10 +1,10 @@
 # Métodos Numéricos 1
 
-Bem-vindo ao repositório dos trabalhos de Métodos Numéricos 1!
+Bem-vindo ao repositório dos trabalhos e das tarefas de Métodos Numéricos 1!
 
 ## 1. Introdução
 
-Este repositório contém uma pequena introdução dos trabalhos abordados na disciplina de Métodos Numéricos 1, juntamente com as implementações dos trabalhos práticos em C++.
+Este repositório contém uma pequena introdução dos trabalhos e tarefas abordados na disciplina de Métodos Numéricos 1, juntamente com as implementações dos trabalhos práticos em C++.
 
 ## 2. Implementações em C++
 
